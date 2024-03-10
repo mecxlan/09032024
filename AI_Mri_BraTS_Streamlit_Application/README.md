@@ -20,6 +20,10 @@ Mri Brain Tumor Segmentation FyP/
 
 ├── app.py                  # Streamlit application
 
+├── pages/
+
+│   └── 💠_Data_Visuals_&_Resources.py
+
 ├── model/
 
 │   ├── model.hdf5          # U-Net architecture
@@ -58,12 +62,12 @@ Mri Brain Tumor Segmentation FyP/
 
 │   ├── ars_logo.png                        # Logo image for app
 
-│   └── mth_logo.png                        # Another logo image for app
+│   └── mth_logo.png                        # Another logo image for the app
 
 │
 
 ├── requirements.txt        # Dependencies to install
 
-├── README.md               # Project documeentation and setup instructions
+├── README.md               # Project documentation and setup instructions
 
 └── .gitignore              # Specifies internationally untracked files

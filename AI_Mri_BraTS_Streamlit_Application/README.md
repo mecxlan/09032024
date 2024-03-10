@@ -4,9 +4,9 @@
 This project utilizes a U-Net convolutional neural network to segment brain tumors from MRI scans. It is designed as a web application using Streamlit, allowing users to upload MRI images and view the segmentation results overlaid on the original images.
 
 # Credits 
-Developed by https://img.shields.io/badge/Github:-mecxlan-black(https://github.com/mecxlan).
+Developed by [Github](https://github.com/mecxlan).
 
-[https://img.shields.io/badge/Author:-mecxlan-blue](https://www.linkedin.com/in/mecxlan/)
+[LinkedIn](https://www.linkedin.com/in/mecxlan/)
 
 
 # Acknowledgments

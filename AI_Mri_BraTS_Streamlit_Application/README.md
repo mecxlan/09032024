@@ -1,33 +1,3 @@
-Mri Brain Tumor Segmentation FyP/
-│
-├── app.py                  # Streamlit application
-├── model/
-│   ├── model.hdf5          # U-Net architecture
-│   └── unet.hdf5           # Pre-trained model weights
-│
-├── utils/
-│   └── utils.py            # Utility functions
-│
-├──img/                                     # Images storing directory
-│   ├── TCGA_CS_4941_19960909_10.png
-│   ├── TCGA_CS_4941_19960909_14.png
-│   ├── TCGA_CS_6667_20011105_14.png
-│   ├── TCGA_DU_7013_19860523_24.png
-│   ├── TCGA_DU_7014_19860618_24.png
-│   ├── TCGA_DU_7019_19940908_19.png
-│   ├── TCGA_DU_7304_19930325_25.png
-│   ├── TCGA_DU_8163_19961119_19.png
-│   ├── TCGA_DU_A5TP_19970614_24.png
-│   ├── TCGA_DU_A5TU_19980312_14.png
-│   ├── ars_logo.png                        # Logo image for app
-│   └── mth_logo.png                        # Another logo image for app
-│
-├── requirements.txt        # Dependencies to install
-├── README.md               # Project documeentation and setup instructions
-└── .gitignore              # Specifies internationally untracked files
-
-.\unetv1\Scripts\Activate
-
 # MRI Brain Tumor Segmentation
 
 ## Description
@@ -41,3 +11,59 @@ Developed by [https://img.shields.io/badge/Github:-mecxlan-black](https://github
 
 # Acknowledgments
 * [Dataset Source](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=5309188)
+
+.\unetv1\Scripts\Activate
+
+Mri Brain Tumor Segmentation FyP/
+
+│
+
+├── app.py                  # Streamlit application
+
+├── model/
+
+│   ├── model.hdf5          # U-Net architecture
+
+│   └── unet.hdf5           # Pre-trained model weights
+
+│
+
+├── utils/
+
+│   └── utils.py            # Utility functions
+
+│
+
+├──img/                                     # Images storing directory
+
+│   ├── TCGA_CS_4941_19960909_10.png
+
+│   ├── TCGA_CS_4941_19960909_14.png
+
+│   ├── TCGA_CS_6667_20011105_14.png
+
+│   ├── TCGA_DU_7013_19860523_24.png
+
+│   ├── TCGA_DU_7014_19860618_24.png
+
+│   ├── TCGA_DU_7019_19940908_19.png
+
+│   ├── TCGA_DU_7304_19930325_25.png
+
+│   ├── TCGA_DU_8163_19961119_19.png
+
+│   ├── TCGA_DU_A5TP_19970614_24.png
+
+│   ├── TCGA_DU_A5TU_19980312_14.png
+
+│   ├── ars_logo.png                        # Logo image for app
+
+│   └── mth_logo.png                        # Another logo image for app
+
+│
+
+├── requirements.txt        # Dependencies to install
+
+├── README.md               # Project documeentation and setup instructions
+
+└── .gitignore              # Specifies internationally untracked files

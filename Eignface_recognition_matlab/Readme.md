@@ -1,3 +1,6 @@
+[![EigenFace Recognition for Face Identification using MATLAB | Principal Component Analysis (PCA)
+](https://img.youtube.com/vi/Ir3KC4n2gjI/0.jpg)](https://www.youtube.com/watch?v=Ir3KC4n2gjI)
+
 EigenFace Recognition Project Structure
 
 - EignFace_Recognition      # Project root
